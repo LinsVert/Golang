@@ -1,0 +1,8 @@
+####说明文档
+
+
+##### 1. 情侣头像爬虫
+
+##### 使用文件：src/go_code/avatar src/go_code/spider
+
+##### 使用方法: cp go_code 到GPPATH的src目录下 然后命令行 cd $GOPATH/src/go_code/avatar 执行 go run main.go 即可
